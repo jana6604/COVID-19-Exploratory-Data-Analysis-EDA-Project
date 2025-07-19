@@ -1,7 +1,8 @@
 COVID-19-Exploratory-Data-Analysis-EDA-Project
 
 Author:Janardhan 
-Tools Used: Python (Pandas, Seaborn, Matplotlib), Power BI  
+
+Tools Used: Python (Pandas, Seaborn, Matplotlib)
 Dataset Source:[Kaggle COVID-19 Global Dataset](https://www.kaggle.com/)  
 Project Type: Exploratory Data Analysis (EDA)
 
@@ -14,6 +15,7 @@ Python Libraries:
  - numpy – For numerical operations and creating calculated fields
  - seaborn – For clean and aesthetic visualizations (line plots, boxplots, violin plots)
  - matplotlib – For plotting time-series and bar charts for comparative analysis
+   
 Data Analysis & Manipulation
  - Date parsing & conversion – Converted date strings to datetime objects using pd.to_datetime() for accurate time-based analysis
  - Grouping & aggregation – Used groupby() to analyze trends over time per country
