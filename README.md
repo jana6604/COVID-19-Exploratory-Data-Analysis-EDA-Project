@@ -1,11 +1,5 @@
 COVID-19-Exploratory-Data-Analysis-EDA-Project
 
-Author:Janardhan 
-
-Tools Used: Python (Pandas, Seaborn, Matplotlib)
-Dataset Source:[Kaggle COVID-19 Global Dataset](https://www.kaggle.com/)  
-Project Type: Exploratory Data Analysis (EDA)
-
 Project Objective
 To analyze the global spread of COVID-19, identify trends, and extract meaningful insights from the dataset using Python.
 
@@ -23,6 +17,10 @@ Data Analysis & Manipulation
  - Outlier detection – Used boxplots and histograms to identify data anomalies or inconsistencies
  - Data validation – Checked for logical errors (e.g., Confirmed < Deaths + Recovered) and handled them appropriately
 
+Tools used:
+Tools Used: Python (Pandas, Seaborn, Matplotlib)
+Dataset Source:[Kaggle COVID-19 Global Dataset](https://www.kaggle.com/)  
+Project Type: Exploratory Data Analysis (EDA)
 
 Key EDA Insights
 
@@ -46,9 +44,14 @@ This project demonstrates my ability to:
 - Visualize patterns using Python & BI tools
 - Tell a compelling data story
 
-Connect with Me
-LinkedIn - [LinkedIn](www.linkedin.com/in/janardhan-46b045259)
+Connect with Me:
 
-⭐ Feel free to fork, use, or connect with me for collaboration!
+Author : Janardhan
+  
+-Email: janadrjt6604@gmail.com  
+-LinkedIn: [linkedin.com/in/janardhan-](https://www.linkedin.com/in/janardhan-)  
+-GitHub: [ggithub.com/jana6604](https://github.com/jana6604)
+
+Feel free to fork, use, or connect with me for collaboration!
 
 
