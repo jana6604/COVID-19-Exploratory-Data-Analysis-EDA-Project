@@ -44,13 +44,14 @@ This project demonstrates my ability to:
 - Visualize patterns using Python & BI tools
 - Tell a compelling data story
 
-Connect with Me:
-
+Contact:  (If you'd like to connect, collaborate, or provide feedback)
+ 
 Author : Janardhan
   
 -Email: janadrjt6604@gmail.com  
 -LinkedIn: [linkedin.com/in/janardhan-](https://www.linkedin.com/in/janardhan-)  
 -GitHub: [ggithub.com/jana6604](https://github.com/jana6604)
+
 
 Feel free to fork, use, or connect with me for collaboration!
 
